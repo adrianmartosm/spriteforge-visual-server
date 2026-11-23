@@ -6,5 +6,6 @@ This folder contains material that is useful when maintaining SpriteForge but is
 - [`TO_DO_LIST.md`](TO_DO_LIST.md) contains the historical product backlog.
 - [`evaluation/`](evaluation/) contains visual test fixtures and cleanup experiments.
 - [`../archive/animation-experiments/`](../archive/animation-experiments/) contains retired animation prototypes kept for reference.
+- [`HOSTING-MULTIPLE-SITES.md`](HOSTING-MULTIPLE-SITES.md) explains how to host additional projects safely with Docker Compose and Traefik.
 
 The application source remains at the repository root because the static frontend is served directly by Nginx.
